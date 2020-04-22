@@ -1,4 +1,5 @@
 package framework;
 
-public class Item {
+public interface Item {
+    public void use();
 }
