@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/02TemplateMethod/02TemplateMethod.iml" filepath="$PROJECT_DIR$/02TemplateMethod/02TemplateMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/03FactoryMethod/03FactoryMethod.iml" filepath="$PROJECT_DIR$/03FactoryMethod/03FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/04Singleton/04Singleton.iml" filepath="$PROJECT_DIR$/04Singleton/04Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05Prototype/05Prototype.iml" filepath="$PROJECT_DIR$/05Prototype/05Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/pattern.iml" filepath="$PROJECT_DIR$/pattern.iml" />
     </modules>
   </component>
